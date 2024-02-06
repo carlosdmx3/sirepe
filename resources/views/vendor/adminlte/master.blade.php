@@ -34,7 +34,13 @@
 }
 .guinda{
     color: #802434;
+   /* color:black;*/
 }
+.active {
+    background: #BBBBBB !important
+}
+
+
 </style>
     {{-- Custom stylesheets (pre AdminLTE) --}}
     @yield('adminlte_css_pre')

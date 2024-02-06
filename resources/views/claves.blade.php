@@ -1,9 +1,10 @@
+
 @extends('adminlte::page')
 
-@section('title', 'Datos de escuela')
+@section('title', 'Claves presupuestales')
 
 @section('content_header')
-    <h1>Titulo</h1>
+    <h1>Claves presupuestales</h1>
 @stop
 
 @section('content')
@@ -12,6 +13,7 @@
         <div class="d-flex justify-content-between">
             <b><i class="fab fa-buromobelexperte dorado"></i>&nbsp;
                 <span class="guinda2" >
+                  Datos de Claves Presupuestales
                     
 
                 </span>
@@ -19,7 +21,8 @@
         </div>
     </div>
     <div class="card-body table-responsive guinda" style="font-size:14px;">
-         
+            
+       <!-- Contenido -->
 
     </div>
 </div>

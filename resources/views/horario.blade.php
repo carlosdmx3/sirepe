@@ -1,9 +1,9 @@
 @extends('adminlte::page')
 
-@section('title', 'Datos de escuela')
+@section('title', 'Horarios')
 
 @section('content_header')
-    <h1>Titulo</h1>
+    <h1>Horarios</h1>
 @stop
 
 @section('content')
@@ -12,6 +12,7 @@
         <div class="d-flex justify-content-between">
             <b><i class="fab fa-buromobelexperte dorado"></i>&nbsp;
                 <span class="guinda2" >
+                  Horarios
                     
 
                 </span>
@@ -19,7 +20,8 @@
         </div>
     </div>
     <div class="card-body table-responsive guinda" style="font-size:14px;">
-         
+            
+       
 
     </div>
 </div>
